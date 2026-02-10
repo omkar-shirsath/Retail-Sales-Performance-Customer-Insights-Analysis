@@ -11,7 +11,7 @@ Analyze retail sales, profitability, discount impact, and return behavior across
 
 ---
 
-## Dataset (To Be Added)
+## Dataset 
 
 The project uses the Superstore retail dataset containing orders, customers, products, returns, and regional manager information.
 
