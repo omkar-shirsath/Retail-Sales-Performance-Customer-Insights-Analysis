@@ -7,24 +7,23 @@
 
 ## Business Objective
 
-This project aims to analyze retail sales data to track performance, measure key business metrics, and uncover customer purchasing patterns.
-The goal is to support decision-making in areas such as product strategy, inventory planning, and revenue improvement.
+Analyze retail sales, profitability, discount impact, and return behavior across products, customers, and regions to identify growth opportunities, operational risks, and performance improvement areas.
 
 ---
 
 ## Dataset (To Be Added)
 
-A retail or e-commerce transactional dataset will be used.
-It is expected to include information such as:
+The project uses the Superstore retail dataset containing orders, customers, products, returns, and regional manager information.
 
-* Orders
-* Products
-* Customers
-* Prices and quantities
-* Dates
-* Locations
+Main tables:
 
-The dataset will be uploaded in the `data/` folder once finalized.
+ * Orders
+ * Returns
+ * People
+
+The data simulates a multi-region retail business and supports sales, profitability, and operational analysis.
+
+The dataset is  uploaded in the `data/` folder .
 
 ---
 
